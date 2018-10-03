@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/YoutubeApi/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/YoutubeApi/vendor/firebase/php-jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/YoutubeApi/vendor/google/apiclient" />
+      <excludeFolder url="file://$MODULE_DIR$/YoutubeApi/vendor/google/apiclient-services" />
+      <excludeFolder url="file://$MODULE_DIR$/YoutubeApi/vendor/google/auth" />
+      <excludeFolder url="file://$MODULE_DIR$/YoutubeApi/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/YoutubeApi/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/YoutubeApi/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/YoutubeApi/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/YoutubeApi/vendor/phpseclib/phpseclib" />
+      <excludeFolder url="file://$MODULE_DIR$/YoutubeApi/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/YoutubeApi/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/YoutubeApi/vendor/psr/log" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
